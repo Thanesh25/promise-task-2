@@ -1,0 +1,36 @@
+.cat-container {
+    margin-top: 50px;
+}
+
+.cat-image,
+.cat-gif,
+.cat-says {
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+
+}
+
+.cat-title {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.header {
+    background-color: rgb(0, 0, 0, .7);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body {
+
+    font-family: 'Poppins', sans-serif;
+
+
+    margin: 0px;
+    padding: 0px;
+}
